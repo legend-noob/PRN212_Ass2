@@ -1,0 +1,87 @@
+﻿<Page x:Class="FUMiniHotelSystem.Admin.ReportStatistic"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:FUMiniHotelSystem.Admin"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="800"
+      Title="ReportStatistic">
+
+    <Grid>
+        <ListView Name="lvBr"
+                  Margin="60,127,60,82">
+            <ListView.View>
+                <GridView>
+                    <GridViewColumn Header="Booking Date"
+                                    Width="150">
+                        <GridViewColumn.CellTemplate>
+                            <DataTemplate>
+                                <TextBlock Text="{Binding BookingDate, StringFormat={}{0:dd/MM/yyyy}}" />
+                            </DataTemplate>
+                        </GridViewColumn.CellTemplate>
+                    </GridViewColumn>
+                    <GridViewColumn Header="TotalPrice"
+                                    Width="180"
+                                    DisplayMemberBinding="{Binding Path=TotalPrice}" />
+                    <GridViewColumn Header="Customer Name"
+                                    Width="180"
+                                    DisplayMemberBinding="{Binding CustomerName}" />
+                    <GridViewColumn Header="Status"
+                                    Width="180"
+                                    DisplayMemberBinding="{Binding Path=BookingStatus}" />
+                </GridView>
+            </ListView.View>
+        </ListView>
+        <Button Content="Search"
+                HorizontalAlignment="Left"
+                Margin="667,46,0,0"
+                VerticalAlignment="Top"
+                Height="30"
+                Width="46"
+                Background="LightGray"
+                FontFamily="Kozuka Mincho Pr6N B"
+                Foreground="Black"
+                BorderBrush="White"
+                Click="Button_Click_2" />
+        <Label Content="Report"
+               HorizontalAlignment="Left"
+               Margin="48,39,0,0"
+               VerticalAlignment="Top"
+               Height="43"
+               Width="165"
+               Foreground="#FFFF"
+               FontSize="24" />
+        <TextBox Name="NewsID"
+                 Visibility="Hidden"
+                 HorizontalAlignment="Left"
+                 Margin="528,47,0,0"
+                 TextWrapping="Wrap"
+                 VerticalAlignment="Top"
+                 Width="120"
+                 Text="{Binding Path=NewsID, Mode=OneWay}"
+                 DataContext="{Binding ElementName=lvNews, Path=SelectedItem}" />
+        <DatePicker Name="dpStartDate"
+                    HorizontalAlignment="Left"
+                    Margin="415,46,0,0"
+                    VerticalAlignment="Top"
+                    Height="30"
+                    Width="126" />
+        <DatePicker  Name="dpEndDate"
+                     HorizontalAlignment="Left"
+                     Margin="541,46,0,0"
+                     VerticalAlignment="Top"
+                     Height="30"
+                     Width="126" />
+        <Label Content="From"
+               Foreground="#FFFF"
+               HorizontalAlignment="Left"
+               Margin="415,10,0,0"
+               VerticalAlignment="Top" />
+        <Label Content="To"
+               Foreground="#FFFF"
+               HorizontalAlignment="Left"
+               Margin="541,10,0,0"
+               VerticalAlignment="Top" />
+    </Grid>
+</Page>

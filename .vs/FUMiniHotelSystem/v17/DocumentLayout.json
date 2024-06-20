@@ -1,0 +1,347 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DUYTH\\Downloads\\Assignment1_HE180844\\FUMiniHotelSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{25675241-C9FE-4EF6-A74E-E1001DA6C389}|FUMiniHotelSystem\\FUMiniHotelSystem.csproj|C:\\Users\\DUYTH\\Downloads\\Assignment1_HE180844\\FUMiniHotelSystem\\fuminihotelsystem\\admin\\addcustomerwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25675241-C9FE-4EF6-A74E-E1001DA6C389}|FUMiniHotelSystem\\FUMiniHotelSystem.csproj|solutionrelative:fuminihotelsystem\\admin\\addcustomerwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4FFF67A-FACF-4F99-B355-C0F160FDC589}|DataAccess\\DataAccess.csproj|C:\\Users\\DUYTH\\Downloads\\Assignment1_HE180844\\FUMiniHotelSystem\\dataaccess\\dao\\customerdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4FFF67A-FACF-4F99-B355-C0F160FDC589}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\dao\\customerdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBEA8091-843A-448E-AA2C-E91C78F6E3EF}|BusinessObject\\BusinessObject.csproj|C:\\Users\\DUYTH\\Downloads\\Assignment1_HE180844\\FUMiniHotelSystem\\businessobject\\fuminihotelmanagementcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBEA8091-843A-448E-AA2C-E91C78F6E3EF}|BusinessObject\\BusinessObject.csproj|solutionrelative:businessobject\\fuminihotelmanagementcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4FFF67A-FACF-4F99-B355-C0F160FDC589}|DataAccess\\DataAccess.csproj|C:\\Users\\DUYTH\\Downloads\\Assignment1_HE180844\\FUMiniHotelSystem\\dataaccess\\models\\bookingreservationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4FFF67A-FACF-4F99-B355-C0F160FDC589}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\models\\bookingreservationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25675241-C9FE-4EF6-A74E-E1001DA6C389}|FUMiniHotelSystem\\FUMiniHotelSystem.csproj|c:\\users\\duyth\\downloads\\assignment1_he180844\\fuminihotelsystem\\fuminihotelsystem\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{25675241-C9FE-4EF6-A74E-E1001DA6C389}|FUMiniHotelSystem\\FUMiniHotelSystem.csproj|solutionrelative:fuminihotelsystem\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4FFF67A-FACF-4F99-B355-C0F160FDC589}|DataAccess\\DataAccess.csproj|c:\\users\\duyth\\downloads\\assignment1_he180844\\fuminihotelsystem\\dataaccess\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B4FFF67A-FACF-4F99-B355-C0F160FDC589}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4FFF67A-FACF-4F99-B355-C0F160FDC589}|DataAccess\\DataAccess.csproj|C:\\Users\\DUYTH\\Downloads\\Assignment1_HE180844\\FUMiniHotelSystem\\dataaccess\\dao\\bookingreservationdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4FFF67A-FACF-4F99-B355-C0F160FDC589}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\dao\\bookingreservationdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4FFF67A-FACF-4F99-B355-C0F160FDC589}|DataAccess\\DataAccess.csproj|C:\\Users\\DUYTH\\Downloads\\Assignment1_HE180844\\FUMiniHotelSystem\\dataaccess\\dao\\roominfomationdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4FFF67A-FACF-4F99-B355-C0F160FDC589}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\dao\\roominfomationdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25675241-C9FE-4EF6-A74E-E1001DA6C389}|FUMiniHotelSystem\\FUMiniHotelSystem.csproj|C:\\Users\\DUYTH\\Downloads\\Assignment1_HE180844\\FUMiniHotelSystem\\fuminihotelsystem\\admin\\customermanager.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25675241-C9FE-4EF6-A74E-E1001DA6C389}|FUMiniHotelSystem\\FUMiniHotelSystem.csproj|solutionrelative:fuminihotelsystem\\admin\\customermanager.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25675241-C9FE-4EF6-A74E-E1001DA6C389}|FUMiniHotelSystem\\FUMiniHotelSystem.csproj|C:\\Users\\DUYTH\\Downloads\\Assignment1_HE180844\\FUMiniHotelSystem\\fuminihotelsystem\\admin\\addroominfomationwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25675241-C9FE-4EF6-A74E-E1001DA6C389}|FUMiniHotelSystem\\FUMiniHotelSystem.csproj|solutionrelative:fuminihotelsystem\\admin\\addroominfomationwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25675241-C9FE-4EF6-A74E-E1001DA6C389}|FUMiniHotelSystem\\FUMiniHotelSystem.csproj|C:\\Users\\DUYTH\\Downloads\\Assignment1_HE180844\\FUMiniHotelSystem\\fuminihotelsystem\\admin\\customermanager.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{25675241-C9FE-4EF6-A74E-E1001DA6C389}|FUMiniHotelSystem\\FUMiniHotelSystem.csproj|solutionrelative:fuminihotelsystem\\admin\\customermanager.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBEA8091-843A-448E-AA2C-E91C78F6E3EF}|BusinessObject\\BusinessObject.csproj|C:\\Users\\DUYTH\\Downloads\\Assignment1_HE180844\\FUMiniHotelSystem\\businessobject\\roomtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBEA8091-843A-448E-AA2C-E91C78F6E3EF}|BusinessObject\\BusinessObject.csproj|solutionrelative:businessobject\\roomtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBEA8091-843A-448E-AA2C-E91C78F6E3EF}|BusinessObject\\BusinessObject.csproj|C:\\Users\\DUYTH\\Downloads\\Assignment1_HE180844\\FUMiniHotelSystem\\businessobject\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBEA8091-843A-448E-AA2C-E91C78F6E3EF}|BusinessObject\\BusinessObject.csproj|solutionrelative:businessobject\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBEA8091-843A-448E-AA2C-E91C78F6E3EF}|BusinessObject\\BusinessObject.csproj|C:\\Users\\DUYTH\\Downloads\\Assignment1_HE180844\\FUMiniHotelSystem\\businessobject\\bookingreservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBEA8091-843A-448E-AA2C-E91C78F6E3EF}|BusinessObject\\BusinessObject.csproj|solutionrelative:businessobject\\bookingreservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBEA8091-843A-448E-AA2C-E91C78F6E3EF}|BusinessObject\\BusinessObject.csproj|C:\\Users\\DUYTH\\Downloads\\Assignment1_HE180844\\FUMiniHotelSystem\\businessobject\\bookingdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBEA8091-843A-448E-AA2C-E91C78F6E3EF}|BusinessObject\\BusinessObject.csproj|solutionrelative:businessobject\\bookingdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25675241-C9FE-4EF6-A74E-E1001DA6C389}|FUMiniHotelSystem\\FUMiniHotelSystem.csproj|C:\\Users\\DUYTH\\Downloads\\Assignment1_HE180844\\FUMiniHotelSystem\\fuminihotelsystem\\admin\\addcustomerwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{25675241-C9FE-4EF6-A74E-E1001DA6C389}|FUMiniHotelSystem\\FUMiniHotelSystem.csproj|solutionrelative:fuminihotelsystem\\admin\\addcustomerwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4FFF67A-FACF-4F99-B355-C0F160FDC589}|DataAccess\\DataAccess.csproj|C:\\Users\\DUYTH\\Downloads\\Assignment1_HE180844\\FUMiniHotelSystem\\dataaccess\\dao\\roomtypedao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4FFF67A-FACF-4F99-B355-C0F160FDC589}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\dao\\roomtypedao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4FFF67A-FACF-4F99-B355-C0F160FDC589}|DataAccess\\DataAccess.csproj|C:\\Users\\DUYTH\\Downloads\\Assignment1_HE180844\\FUMiniHotelSystem\\dataaccess\\repository\\iroominfomationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4FFF67A-FACF-4F99-B355-C0F160FDC589}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\repository\\iroominfomationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25675241-C9FE-4EF6-A74E-E1001DA6C389}|FUMiniHotelSystem\\FUMiniHotelSystem.csproj|C:\\Users\\DUYTH\\Downloads\\Assignment1_HE180844\\FUMiniHotelSystem\\fuminihotelsystem\\customer\\profile.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25675241-C9FE-4EF6-A74E-E1001DA6C389}|FUMiniHotelSystem\\FUMiniHotelSystem.csproj|solutionrelative:fuminihotelsystem\\customer\\profile.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25675241-C9FE-4EF6-A74E-E1001DA6C389}|FUMiniHotelSystem\\FUMiniHotelSystem.csproj|C:\\Users\\DUYTH\\Downloads\\Assignment1_HE180844\\FUMiniHotelSystem\\fuminihotelsystem\\customer\\profile.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{25675241-C9FE-4EF6-A74E-E1001DA6C389}|FUMiniHotelSystem\\FUMiniHotelSystem.csproj|solutionrelative:fuminihotelsystem\\customer\\profile.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\DUYTH\\Downloads\\Assignment1_HE180844\\FUMiniHotelSystem\\DataAccess\\appsettings.json",
+              "RelativeDocumentMoniker": "DataAccess\\appsettings.json",
+              "ToolTip": "C:\\Users\\DUYTH\\Downloads\\Assignment1_HE180844\\FUMiniHotelSystem\\DataAccess\\appsettings.json",
+              "RelativeToolTip": "DataAccess\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-20T13:16:10.319Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FUMiniHotelManagementContext.cs",
+              "DocumentMoniker": "C:\\Users\\DUYTH\\Downloads\\Assignment1_HE180844\\FUMiniHotelSystem\\BusinessObject\\FUMiniHotelManagementContext.cs",
+              "RelativeDocumentMoniker": "BusinessObject\\FUMiniHotelManagementContext.cs",
+              "ToolTip": "C:\\Users\\DUYTH\\Downloads\\Assignment1_HE180844\\FUMiniHotelSystem\\BusinessObject\\FUMiniHotelManagementContext.cs",
+              "RelativeToolTip": "BusinessObject\\FUMiniHotelManagementContext.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAgwB0AAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T08:00:33.012Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\DUYTH\\Downloads\\Assignment1_HE180844\\FUMiniHotelSystem\\FUMiniHotelSystem\\appsettings.json",
+              "RelativeDocumentMoniker": "FUMiniHotelSystem\\appsettings.json",
+              "ToolTip": "C:\\Users\\DUYTH\\Downloads\\Assignment1_HE180844\\FUMiniHotelSystem\\FUMiniHotelSystem\\appsettings.json",
+              "RelativeToolTip": "FUMiniHotelSystem\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-14T07:06:35.826Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BookingReservationDTO.cs",
+              "DocumentMoniker": "C:\\Users\\DUYTH\\Downloads\\Assignment1_HE180844\\FUMiniHotelSystem\\DataAccess\\Models\\BookingReservationDTO.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Models\\BookingReservationDTO.cs",
+              "ToolTip": "C:\\Users\\DUYTH\\Downloads\\Assignment1_HE180844\\FUMiniHotelSystem\\DataAccess\\Models\\BookingReservationDTO.cs",
+              "RelativeToolTip": "DataAccess\\Models\\BookingReservationDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T03:36:21.12Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CustomerDAO.cs",
+              "DocumentMoniker": "C:\\Users\\DUYTH\\Downloads\\Assignment1_HE180844\\FUMiniHotelSystem\\DataAccess\\DAO\\CustomerDAO.cs",
+              "RelativeDocumentMoniker": "DataAccess\\DAO\\CustomerDAO.cs",
+              "ToolTip": "C:\\Users\\DUYTH\\Downloads\\Assignment1_HE180844\\FUMiniHotelSystem\\DataAccess\\DAO\\CustomerDAO.cs",
+              "RelativeToolTip": "DataAccess\\DAO\\CustomerDAO.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T04:37:12.395Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AddCustomerWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\DUYTH\\Downloads\\Assignment1_HE180844\\FUMiniHotelSystem\\FUMiniHotelSystem\\Admin\\AddCustomerWindow.xaml.cs",
+              "RelativeDocumentMoniker": "FUMiniHotelSystem\\Admin\\AddCustomerWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\DUYTH\\Downloads\\Assignment1_HE180844\\FUMiniHotelSystem\\FUMiniHotelSystem\\Admin\\AddCustomerWindow.xaml.cs",
+              "RelativeToolTip": "FUMiniHotelSystem\\Admin\\AddCustomerWindow.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T03:17:06.933Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "RoomInfomationDAO.cs",
+              "DocumentMoniker": "C:\\Users\\DUYTH\\Downloads\\Assignment1_HE180844\\FUMiniHotelSystem\\DataAccess\\DAO\\RoomInfomationDAO.cs",
+              "RelativeDocumentMoniker": "DataAccess\\DAO\\RoomInfomationDAO.cs",
+              "ToolTip": "C:\\Users\\DUYTH\\Downloads\\Assignment1_HE180844\\FUMiniHotelSystem\\DataAccess\\DAO\\RoomInfomationDAO.cs",
+              "RelativeToolTip": "DataAccess\\DAO\\RoomInfomationDAO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T04:37:26.885Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AddRoomInfomationWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\DUYTH\\Downloads\\Assignment1_HE180844\\FUMiniHotelSystem\\FUMiniHotelSystem\\Admin\\AddRoomInfomationWindow.xaml.cs",
+              "RelativeDocumentMoniker": "FUMiniHotelSystem\\Admin\\AddRoomInfomationWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\DUYTH\\Downloads\\Assignment1_HE180844\\FUMiniHotelSystem\\FUMiniHotelSystem\\Admin\\AddRoomInfomationWindow.xaml.cs",
+              "RelativeToolTip": "FUMiniHotelSystem\\Admin\\AddRoomInfomationWindow.xaml.cs",
+              "ViewState": "AQIAADYAAAAAAAAAAAAqwEsAAACAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T05:45:04.474Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "RoomType.cs",
+              "DocumentMoniker": "C:\\Users\\DUYTH\\Downloads\\Assignment1_HE180844\\FUMiniHotelSystem\\BusinessObject\\RoomType.cs",
+              "RelativeDocumentMoniker": "BusinessObject\\RoomType.cs",
+              "ToolTip": "C:\\Users\\DUYTH\\Downloads\\Assignment1_HE180844\\FUMiniHotelSystem\\BusinessObject\\RoomType.cs",
+              "RelativeToolTip": "BusinessObject\\RoomType.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T03:42:42.001Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CustomerManager.xaml",
+              "DocumentMoniker": "C:\\Users\\DUYTH\\Downloads\\Assignment1_HE180844\\FUMiniHotelSystem\\FUMiniHotelSystem\\Admin\\CustomerManager.xaml",
+              "RelativeDocumentMoniker": "FUMiniHotelSystem\\Admin\\CustomerManager.xaml",
+              "ToolTip": "C:\\Users\\DUYTH\\Downloads\\Assignment1_HE180844\\FUMiniHotelSystem\\FUMiniHotelSystem\\Admin\\CustomerManager.xaml",
+              "RelativeToolTip": "FUMiniHotelSystem\\Admin\\CustomerManager.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-14T06:18:28.365Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BookingReservationDAO.cs",
+              "DocumentMoniker": "C:\\Users\\DUYTH\\Downloads\\Assignment1_HE180844\\FUMiniHotelSystem\\DataAccess\\DAO\\BookingReservationDAO.cs",
+              "RelativeDocumentMoniker": "DataAccess\\DAO\\BookingReservationDAO.cs",
+              "ToolTip": "C:\\Users\\DUYTH\\Downloads\\Assignment1_HE180844\\FUMiniHotelSystem\\DataAccess\\DAO\\BookingReservationDAO.cs",
+              "RelativeToolTip": "DataAccess\\DAO\\BookingReservationDAO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T03:22:35.885Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CustomerManager.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\DUYTH\\Downloads\\Assignment1_HE180844\\FUMiniHotelSystem\\FUMiniHotelSystem\\Admin\\CustomerManager.xaml.cs",
+              "RelativeDocumentMoniker": "FUMiniHotelSystem\\Admin\\CustomerManager.xaml.cs",
+              "ToolTip": "C:\\Users\\DUYTH\\Downloads\\Assignment1_HE180844\\FUMiniHotelSystem\\FUMiniHotelSystem\\Admin\\CustomerManager.xaml.cs",
+              "RelativeToolTip": "FUMiniHotelSystem\\Admin\\CustomerManager.xaml.cs",
+              "ViewState": "AQIAADQAAAAAAAAAAAAkwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T06:14:04.269Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\DUYTH\\Downloads\\Assignment1_HE180844\\FUMiniHotelSystem\\BusinessObject\\Customer.cs",
+              "RelativeDocumentMoniker": "BusinessObject\\Customer.cs",
+              "ToolTip": "C:\\Users\\DUYTH\\Downloads\\Assignment1_HE180844\\FUMiniHotelSystem\\BusinessObject\\Customer.cs",
+              "RelativeToolTip": "BusinessObject\\Customer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T03:42:40.627Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "BookingReservation.cs",
+              "DocumentMoniker": "C:\\Users\\DUYTH\\Downloads\\Assignment1_HE180844\\FUMiniHotelSystem\\BusinessObject\\BookingReservation.cs",
+              "RelativeDocumentMoniker": "BusinessObject\\BookingReservation.cs",
+              "ToolTip": "C:\\Users\\DUYTH\\Downloads\\Assignment1_HE180844\\FUMiniHotelSystem\\BusinessObject\\BookingReservation.cs",
+              "RelativeToolTip": "BusinessObject\\BookingReservation.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T03:42:39.785Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "BookingDetail.cs",
+              "DocumentMoniker": "C:\\Users\\DUYTH\\Downloads\\Assignment1_HE180844\\FUMiniHotelSystem\\BusinessObject\\BookingDetail.cs",
+              "RelativeDocumentMoniker": "BusinessObject\\BookingDetail.cs",
+              "ToolTip": "C:\\Users\\DUYTH\\Downloads\\Assignment1_HE180844\\FUMiniHotelSystem\\BusinessObject\\BookingDetail.cs",
+              "RelativeToolTip": "BusinessObject\\BookingDetail.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T03:42:37.956Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AddCustomerWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\DUYTH\\Downloads\\Assignment1_HE180844\\FUMiniHotelSystem\\FUMiniHotelSystem\\Admin\\AddCustomerWindow.xaml",
+              "RelativeDocumentMoniker": "FUMiniHotelSystem\\Admin\\AddCustomerWindow.xaml",
+              "ToolTip": "C:\\Users\\DUYTH\\Downloads\\Assignment1_HE180844\\FUMiniHotelSystem\\FUMiniHotelSystem\\Admin\\AddCustomerWindow.xaml",
+              "RelativeToolTip": "FUMiniHotelSystem\\Admin\\AddCustomerWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-14T05:19:00.039Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "RoomTypeDAO.cs",
+              "DocumentMoniker": "C:\\Users\\DUYTH\\Downloads\\Assignment1_HE180844\\FUMiniHotelSystem\\DataAccess\\DAO\\RoomTypeDAO.cs",
+              "RelativeDocumentMoniker": "DataAccess\\DAO\\RoomTypeDAO.cs",
+              "ToolTip": "C:\\Users\\DUYTH\\Downloads\\Assignment1_HE180844\\FUMiniHotelSystem\\DataAccess\\DAO\\RoomTypeDAO.cs",
+              "RelativeToolTip": "DataAccess\\DAO\\RoomTypeDAO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T04:37:32.944Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IRoomInfomationRepository.cs",
+              "DocumentMoniker": "C:\\Users\\DUYTH\\Downloads\\Assignment1_HE180844\\FUMiniHotelSystem\\DataAccess\\Repository\\IRoomInfomationRepository.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Repository\\IRoomInfomationRepository.cs",
+              "ToolTip": "C:\\Users\\DUYTH\\Downloads\\Assignment1_HE180844\\FUMiniHotelSystem\\DataAccess\\Repository\\IRoomInfomationRepository.cs",
+              "RelativeToolTip": "DataAccess\\Repository\\IRoomInfomationRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T03:22:57.7Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Profile.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\DUYTH\\Downloads\\Assignment1_HE180844\\FUMiniHotelSystem\\FUMiniHotelSystem\\Customer\\Profile.xaml.cs",
+              "RelativeDocumentMoniker": "FUMiniHotelSystem\\Customer\\Profile.xaml.cs",
+              "ToolTip": "C:\\Users\\DUYTH\\Downloads\\Assignment1_HE180844\\FUMiniHotelSystem\\FUMiniHotelSystem\\Customer\\Profile.xaml.cs",
+              "RelativeToolTip": "FUMiniHotelSystem\\Customer\\Profile.xaml.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAAFcAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T03:17:36.847Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Profile.xaml",
+              "DocumentMoniker": "C:\\Users\\DUYTH\\Downloads\\Assignment1_HE180844\\FUMiniHotelSystem\\FUMiniHotelSystem\\Customer\\Profile.xaml",
+              "RelativeDocumentMoniker": "FUMiniHotelSystem\\Customer\\Profile.xaml",
+              "ToolTip": "C:\\Users\\DUYTH\\Downloads\\Assignment1_HE180844\\FUMiniHotelSystem\\FUMiniHotelSystem\\Customer\\Profile.xaml",
+              "RelativeToolTip": "FUMiniHotelSystem\\Customer\\Profile.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-14T03:14:07.596Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

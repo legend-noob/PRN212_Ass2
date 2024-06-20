@@ -1,0 +1,41 @@
+﻿<Page x:Class="FUMiniHotelSystem.Customer.History"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+      xmlns:local="clr-namespace:FUMiniHotelSystem.Customer"
+      mc:Ignorable="d"
+      Title="History" Height="450" Width="800">
+    <Grid>
+        <ListView Name="lvBH"
+                  Margin="60,104,60,104" SelectionChanged="lvBH_SelectionChanged">
+            <ListView.View>
+                <GridView>
+                    <GridViewColumn Header="Booking Date"
+                                    Width="180">
+                        <GridViewColumn.CellTemplate>
+                            <DataTemplate>
+                                <TextBlock Text="{Binding BookingDate, StringFormat={}{0:dd/MM/yyyy}}" />
+                            </DataTemplate>
+                        </GridViewColumn.CellTemplate>
+                    </GridViewColumn>
+                    <GridViewColumn Header="TotalPrice"
+                                    Width="250"
+                                    DisplayMemberBinding="{Binding Path=TotalPrice}" />
+                    <GridViewColumn Header="Customer Name"
+                                    Width="250"
+                                    DisplayMemberBinding="{Binding CustomerName}" />
+                </GridView>
+            </ListView.View>
+        </ListView>
+        <Label Content="History"
+               HorizontalAlignment="Left"
+               Margin="343,56,0,0"
+               VerticalAlignment="Top"
+               Height="43"
+               FontStyle="Normal"
+               Width="96"
+               Foreground="Black"
+               FontSize="24" />
+    </Grid>
+</Page>

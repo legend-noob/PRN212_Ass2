@@ -1,0 +1,112 @@
+﻿<Page x:Class="FUMiniHotelSystem.Admin.RoomInfoManager"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:FUMiniHotelSystem.Admin"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="800"
+      Title="RoomInfoManager">
+
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="73*"/>
+            <RowDefinition Height="17*"/>
+        </Grid.RowDefinitions>
+
+        <ListView Name="lvRi"
+                  Margin="55,136,64,10">
+            <ListView.View>
+                <GridView>
+                    <GridViewColumn Header="RoomNumber"
+                                    Width="100"
+                                    DisplayMemberBinding="{Binding Path=RoomNumber}" />
+                    <GridViewColumn Header="RoomDetailDescription"
+                                    Width="130"
+                                    DisplayMemberBinding="{Binding Path=RoomDetailDescription}" />
+                    <GridViewColumn Header="RoomMaxCapacity"
+                                    Width="120"
+                                    DisplayMemberBinding="{Binding Path=RoomMaxCapacity}" />
+                    <GridViewColumn Header="RoomType"
+                                    Width="100"
+                                    DisplayMemberBinding="{Binding Path=RoomTypeName}" />
+                    <GridViewColumn Header="RoomStatus"
+                                    Width="100"
+                                    DisplayMemberBinding="{Binding Path=Status}" />
+                    <GridViewColumn Header="RoomPricePerDay"
+                                    Width="100"
+                                    DisplayMemberBinding="{Binding Path=RoomPricePerDay}" />
+                </GridView>
+            </ListView.View>
+        </ListView>
+        <Button Name="BtnDelete"
+                Content="Delete"
+                HorizontalAlignment="Left"
+                Margin="573,18,0,0"
+                VerticalAlignment="Top"
+                Height="36"
+                Width="163"
+                Background="LightSkyBlue"
+                FontFamily="Kozuka Mincho Pr6N B"
+                Foreground="Black"
+                BorderBrush="White"
+                Click="Button_Click_Delete" Grid.Row="1" />
+        <Button Content="Update"
+                Name="BtnUpdate"
+                HorizontalAlignment="Left"
+                Margin="314,18,0,0"
+                VerticalAlignment="Top"
+                Height="36"
+                Width="163"
+                Background="LightSkyBlue"
+                FontFamily="Kozuka Mincho Pr6N B"
+                Foreground="Black"
+                BorderBrush="White"
+                Click="Button_Click_Update" Grid.Row="1" />
+        <Button Name="BtnInsert"
+                Content="Create"
+                HorizontalAlignment="Left"
+                Margin="55,22,0,0"
+                VerticalAlignment="Top"
+                Height="36"
+                Width="163"
+                Background="LightSkyBlue"
+                FontFamily="Kozuka Mincho Pr6N B"
+                Foreground="Black"
+                BorderBrush="White"
+                Click="Button_Click_Insert" Grid.Row="1" />
+        <Label Content="Manage RoomInformation"
+               HorizontalAlignment="Left"
+               Margin="55,6,0,0"
+               VerticalAlignment="Top"
+               Height="43"
+               FontStyle="Normal"
+               Width="292"
+               Foreground="#FFFFFF"
+               FontSize="24" />
+        <TextBox Name="tbRoomId"
+                 Visibility="Hidden"
+                 HorizontalAlignment="Left"
+                 Margin="528,47,0,0"
+                 TextWrapping="Wrap"
+                 VerticalAlignment="Top"
+                 Width="120"
+                 Text="{Binding Path=RoomId, Mode=OneWay}"
+                 DataContext="{Binding ElementName=lvRi, Path=SelectedItem}" />
+        <TextBox HorizontalAlignment="Left"
+                 Margin="55,80,0,0"
+                 TextWrapping="Wrap"
+                 VerticalAlignment="Top"
+                 Width="163"
+                 Height="28"
+                 x:Name="tbSearch"/>
+        <Button Content="Search"
+                HorizontalAlignment="Left"
+                Margin="218,80,0,0"
+                VerticalAlignment="Top"
+                x:Name="btnSearch"
+                Height="28"
+                Width="49"
+                Click="btnSearch_Click" />
+    </Grid>
+</Page>
